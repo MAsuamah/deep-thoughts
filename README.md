@@ -63,6 +63,7 @@ To logout, click on the `logout` button in the navigation bar.
 * Express.js
 * Reactjs
 * Node.js
+* GraphQL
 
 ## Website
 https://masuamah-deep-thoughts.herokuapp.com/
